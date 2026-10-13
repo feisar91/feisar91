@@ -6,6 +6,6 @@
 <a href="https://github.com/agent-squirrel" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-agent--squirrel-black?style=flat-square&logo=GitHub&logoColor=white"></a>
 
 <!---
-agent-squirrel/agent-squirrel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+agent-squirrel/feisar91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
